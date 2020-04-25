@@ -1,27 +1,29 @@
 Adobe Acrobat
-Common Word editor .odt?
+"Word" editor .odt?
 Notepad++
-Dolphin
-Kate (pdf, maybe it's another name)
+[Dolphin]
+Kate (pdf viewer)
 Vim
-Python 2.0 and 3.7
 Matlab
 Github Desktop
 Audacity
 Anaconda
-Code Blocks Frame Works
+Code Blocks
 Zoom
-Tor BRowser
+Tor Browser
 WinRAR
-
-
-
-Ag searcher
+[maxMSP]
+---
+Ag silver search
 awk
 darcs
-Gerris
+Gerris (gts and dependencies, gfsview)
 Basilisk
-tls
-xls libraries
 bviewer
-dark table
+OpenFoam
+[dark table]
+emacs
+tmux
+wget
+htop
+gnuplot
