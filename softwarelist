@@ -27,3 +27,5 @@ tmux
 wget
 htop
 gnuplot
+gcc
+
