@@ -52,6 +52,7 @@ logitechutils
 ssh keys
 
 ############ COPY ################
+.alacritty_launcher.sh
 .config
 .gconf
 .gitconfig
@@ -64,6 +65,7 @@ ssh keys
 .zoom
 GVC.bib
 [logitechutils]
+qbittorrent
 [snap]
 
 
