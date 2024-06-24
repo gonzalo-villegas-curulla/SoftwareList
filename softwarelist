@@ -1,30 +1,47 @@
-Adobe Acrobat
-Notepad++
-[Dolphin]
+#Adobe Acrobat
+#Notepad++
+#[Dolphin]
 Matlab
-Github Desktop / git
+#Github Desktop / git
 Audacity
-Anaconda / PyCharm / jetbrains
-Code Blocks
+#Anaconda / PyCharm / jetbrains
+#Code Blocks
 Zoom
 Tor Browser
-WinRAR
-[maxMSP]
-
+#WinRAR
+#[maxMSP]
 ---
 Vim
 Ag silver search
 awk
 darcs
-Gerris (gts and dependencies, gfsview)
-Basilisk
-bviewer
-OpenFoam
+#Gerris (gts and dependencies, gfsview)
+#Basilisk
+#bviewer
+#OpenFoam
 [dark table]
-emacs
+#emacs
 tmux
 wget
 htop
 gnuplot
 gcc
 git
+
+conda
+cudatoolkit
+nvim
+spyder
+visual studio coder
+alacritty
+pdfstudioviewer
+okular
+texmaker
+
+nvtop
+nvidia-driver-535
+FreeFEM
+
+solaar # synch logitech peripherals
+#or maybe:
+ltunify
