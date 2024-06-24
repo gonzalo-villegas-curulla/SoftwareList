@@ -41,7 +41,29 @@ texmaker
 nvtop
 nvidia-driver-535
 FreeFEM
+gmesh
 
 solaar # synch logitech peripherals
 #or maybe:
 ltunify
+logitechutils
+
+.bashrc
+ssh keys
+
+############ COPY ################
+.config
+.gconf
+.gitconfig
+.jupyter
+.profile
+.ssh
+.var
+.vim
+.viminfo
+.zoom
+GVC.bib
+[logitechutils]
+[snap]
+
+
