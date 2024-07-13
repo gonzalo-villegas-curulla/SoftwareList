@@ -1,24 +1,6 @@
-#Adobe Acrobat
-#Notepad++
-#[Dolphin]
-
-#Github Desktop / git
-Audacity
-#Anaconda / PyCharm / jetbrains
-#Code Blocks
-Zoom
-Tor Browser
-#WinRAR
-#[maxMSP]
----
 Vim
-Ag silver search
+ag
 awk
-darcs
-#Gerris (gts and dependencies, gfsview)
-#Basilisk
-#bviewer
-#OpenFoam
 [dark table]
 #emacs
 tmux
@@ -27,7 +9,7 @@ htop
 gnuplot
 gcc
 git
-
+--------------------------
 conda
 cudatoolkit
 nvim
@@ -37,6 +19,26 @@ alacritty
 pdfstudioviewer
 okular
 texmaker
+--------------------------
+#Adobe Acrobat
+#Notepad++
+#[Dolphin]
+
+#Github Desktop / git
+Audacity
+#Anaconda / PyCharm / jetbrains
+#Code Blocks
+#darcs
+#Gerris (gts and dependencies, gfsview)
+#Basilisk
+#bviewer
+#OpenFoam
+
+Zoom
+Tor Browser
+#WinRAR
+#[maxMSP]
+
 
 ############ sophisticated-nontrival ################
 
