@@ -77,4 +77,16 @@ qbittorrent
 extensions
 V-Shell (Vertical Workspaces)... Extra MOD???? 
 
+############ Links ################
+
+[symlink to tor-browser:]
+(from within /home/organ/src/tor-browser)
+sudo ln -s /home/organ/src/tor-browser/start-tor-browser.desktop /usr/bin/torb
+
+(in ~/.bashrc)
+alias ll='ls -alh'
+alias MATLAB='/home/organ/MATLAB/bin/matlab & disown'
+
+
+
 
