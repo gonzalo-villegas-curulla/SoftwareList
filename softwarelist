@@ -1,24 +1,24 @@
 Vim
-ag
+ag+
 awk
-[dark table]
+#[dark table]
 #emacs
-tmux
-wget
-htop
+tmux+
+wget+
+htop+
 gnuplot
-gcc
+gcc+
 git
+nvim+
+alacritty+
 --------------------------
 conda
 cudatoolkit
-nvim
 spyder
 visual studio coder
-alacritty
 pdfstudioviewer
 okular
-texmaker
+texmaker+
 --------------------------
 #Adobe Acrobat
 #Notepad++
@@ -44,7 +44,6 @@ Tor Browser
 
 nvtop
 nvidia-driver-535
-
 
 solaar # synch logitech peripherals
 #or maybe:
@@ -76,6 +75,6 @@ GVC.bib
 qbittorrent
 [snap]
 extensions
-V-Shell (Vertical Workspaces)
+V-Shell (Vertical Workspaces)... Extra MOD???? 
 
 
