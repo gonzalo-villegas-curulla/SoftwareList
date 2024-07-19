@@ -1,27 +1,27 @@
 Vim
-ag+
+ag
 awk
 #[dark table]
 #emacs
-tmux+
-wget+
-htop+
+tmux
+wget
+htop
 gnuplot
-gcc+
+gcc
 git
-nvim+
-alacritty+
+nvim
+alacritty
 --------------------------
-conda
-cudatoolkit
-spyder
-visual studio coder
+conda+
+cudatoolkit+
+spyder+
+visual studio coder+
 pdfstudioviewer
 okular
 texmaker+
 --------------------------
 #Adobe Acrobat
-#Notepad++
+#Notepad
 #[Dolphin]
 
 #Github Desktop / git
