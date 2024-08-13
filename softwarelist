@@ -1,7 +1,7 @@
 Vim
 ag
 awk
-#[dark table]
+dark table
 #emacs
 tmux
 wget
@@ -11,16 +11,28 @@ gcc
 git
 nvim
 alacritty
+make, cmake
+
 --------------------------
-conda+
-cudatoolkit+
-spyder+
-visual studio coder+
+anaconda
+conda
+
+spyder
+visual studio coder
 pdfstudioviewer
 okular
 texmaker+
 inkscape
-vscode # visual studio code
+
+
+########### CONDA:
+cudatoolkit
+pytorch
+
+################ GPU:
+nvtop
+nvidia-smi
+
 --------------------------
 #Adobe Acrobat
 #Notepad
