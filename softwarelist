@@ -1,27 +1,32 @@
-Vim
+vim
 ag
-awk
-dark table
-#emacs
 tmux
 wget
 htop
 gnuplot
 gcc
 git
-nvim
+neovim
 alacritty
-make, cmake
+make
+cmake
+okular
+texmaker
 
 --------------------------
-anaconda
-conda
+awk
+--------------------------
+dark table
+#emacs
 
+anaconda [conda]
+thonny
 spyder
 visual studio coder
 pdfstudioviewer
-okular
-texmaker+
+
+
+
 inkscape
 
 
