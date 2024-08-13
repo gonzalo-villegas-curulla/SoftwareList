@@ -47,17 +47,17 @@ Tor Browser
 nvtop
 nvidia-driver-535
 
-solaar # synch logitech peripherals
+#solaar # synch logitech peripherals
 #or maybe:
-ltunify
-logitechutils
+#ltunify
+#logitechutils
 
 .bashrc
 ssh keys
 ############ not-immediate install ################
 Matlab
-FreeFEM
-gmesh
+#FreeFEM
+#gmesh
 
 
 ############ COPY ################
