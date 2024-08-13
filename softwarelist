@@ -23,10 +23,8 @@ anaconda [conda]
 thonny
 spyder
 visual studio coder
+
 pdfstudioviewer
-
-
-
 inkscape
 
 
@@ -63,6 +61,7 @@ Tor Browser
 
 nvtop
 nvidia-driver-535
+
 
 #solaar # synch logitech peripherals
 #or maybe:
