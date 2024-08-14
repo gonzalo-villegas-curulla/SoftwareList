@@ -14,8 +14,10 @@ make
 cmake
 okular
 texmaker
+screen
+minicom
 --------------------------
-sudo dnf install ag tmux wget htop gnuplot gcc git neovim make cmake okular texmaker -y
+sudo dnf install ag tmux wget htop gnuplot gcc git neovim make cmake okular texmaker screen minicom -y
 --------------------------
 extensions
 V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Muttitaskint/Multi-Monitor and tick WORKSPACES ON ALL DISPLAYS
@@ -51,16 +53,15 @@ https://www.nvidia.com/Download/index.aspx?lang=en-us
 #Notepad
 #[Dolphin]
 
-#Github Desktop / git
+#Github Desktop
 Audacity
-#Anaconda / PyCharm / jetbrains
+#PyCharm / jetbrains
 #Code Blocks
 #darcs
 #Gerris (gts and dependencies, gfsview)
 #Basilisk
 #bviewer
 #OpenFoam
-
 Zoom
 Tor Browser
 #WinRAR
@@ -71,7 +72,6 @@ Tor Browser
 
 nvtop
 nvidia-driver-535
-
 
 #solaar # synch logitech peripherals
 #or maybe:
@@ -100,9 +100,9 @@ Matlab
 .viminfo
 .zoom
 GVC.bib
-[logitechutils]
+#logitechutils
 qbittorrent
-[snap]
+#snap
 
 --------------------------
 
