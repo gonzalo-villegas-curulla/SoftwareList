@@ -35,8 +35,8 @@ pdfstudioviewer
 inkscape
 
 ########### CONDA packages ###########
-cudatoolkit
-pytorch
+conda update conda
+conda install cudatoolkit pytorch
 
 ################ GPU packages###########
 nvtop
