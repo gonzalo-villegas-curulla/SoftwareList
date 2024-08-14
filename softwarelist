@@ -16,8 +16,9 @@ okular
 texmaker
 screen
 minicom
+snapper
 --------------------------
-sudo dnf install ag tmux wget htop gnuplot gcc git neovim make cmake okular texmaker screen minicom -y
+sudo dnf install ag tmux wget htop gnuplot gcc git neovim make cmake okular texmaker screen minicom snapper -y
 --------------------------
 extensions
 V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Muttitaskint/Multi-Monitor and tick WORKSPACES ON ALL DISPLAYS
