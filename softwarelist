@@ -19,7 +19,7 @@ minicom
 snapper
 inkscape
 --------------------------
-sudo dnf install ag tmux wget htop gnuplot gcc git neovim make cmake okular texmaker screen minicom snapper inkscape -y
+sudo dnf install ag tmux wget htop gnuplot gcc git neovim make cmake okular texmaker screen minicom snapper inkscape python3.spyder -y
 --------------------------
 extensions
 V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Muttitaskint/Multi-Monitor and tick WORKSPACES ON ALL DISPLAYS
@@ -29,27 +29,18 @@ V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Muttitask
 --------------------------
 #awk
 --------------------------
+##### SOFTWARE UTILITY #####
 raspberry pi imager
 thonny
-spyder
 dark table
 #emacs
 anaconda [conda]
 visual studio coder
 pdfstudioviewer
-inkscape
 
 ########### CONDA packages ###########
 conda update conda
 conda install cudatoolkit pytorch
-
-################ GPU packages###########
-nvtop
-nvidia-smi
-(drivers here:
-https://www.nvidia.com/Download/index.aspx?lang=en-us
-)
-
 
 --------------------------
 #Adobe Acrobat
@@ -70,11 +61,19 @@ Tor Browser
 #WinRAR
 #[maxMSP]
 
+################ GPU packages ###########
+nvtop
+nvidia-smi
+(drivers here:
+https://www.nvidia.com/Download/index.aspx?lang=en-us
+)
 
 ############ sophisticated-nontrival ################
 
 nvtop
 nvidia-driver-535
+>>> $ nvidia-smi [to confirm]
+# or other
 
 #solaar # synch logitech peripherals
 #or maybe:
