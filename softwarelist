@@ -17,8 +17,9 @@ texmaker
 screen
 minicom
 snapper
+inkscape
 --------------------------
-sudo dnf install ag tmux wget htop gnuplot gcc git neovim make cmake okular texmaker screen minicom snapper -y
+sudo dnf install ag tmux wget htop gnuplot gcc git neovim make cmake okular texmaker screen minicom snapper inkscape -y
 --------------------------
 extensions
 V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Muttitaskint/Multi-Monitor and tick WORKSPACES ON ALL DISPLAYS
@@ -29,11 +30,11 @@ V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Muttitask
 #awk
 --------------------------
 raspberry pi imager
+thonny
+spyder
 dark table
 #emacs
 anaconda [conda]
-thonny
-spyder
 visual studio coder
 pdfstudioviewer
 inkscape
