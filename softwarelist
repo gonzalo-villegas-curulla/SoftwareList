@@ -1,4 +1,6 @@
-vim
+--------------------------
+alacritty
+--------------------------
 ag
 tmux
 wget
@@ -12,7 +14,8 @@ make
 cmake
 okular
 texmaker
-
+--------------------------
+sudo dnf install ag tmux wget htop gnuplot gcc git neovim make cmake okular texmaker -y
 --------------------------
 awk
 --------------------------
