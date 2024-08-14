@@ -17,27 +17,34 @@ texmaker
 --------------------------
 sudo dnf install ag tmux wget htop gnuplot gcc git neovim make cmake okular texmaker -y
 --------------------------
+extensions
+V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Muttitaskint/Multi-Monitor and tick WORKSPACES ON ALL DISPLAYS
+||
+||
+ . ==>>> (https://extensions.gnome.org/extension/5177/vertical-workspaces/)
+--------------------------
 awk
 --------------------------
 dark table
 #emacs
-
 anaconda [conda]
 thonny
 spyder
 visual studio coder
-
 pdfstudioviewer
 inkscape
 
-
-########### CONDA:
+########### CONDA packages ###########
 cudatoolkit
 pytorch
 
-################ GPU:
+################ GPU packages###########
 nvtop
 nvidia-smi
+(drivers here:
+https://www.nvidia.com/Download/index.aspx?lang=en-us
+)
+
 
 --------------------------
 #Adobe Acrobat
@@ -95,11 +102,10 @@ GVC.bib
 [logitechutils]
 qbittorrent
 [snap]
-extensions
-V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Muttitaskint/Multi-Monitor and tick WORKSPACES ON ALL DISPLAYS
-||
-||
- . ==>>> (https://extensions.gnome.org/extension/5177/vertical-workspaces/)
+
+--------------------------
+
+
 ############ Links ################
 
 [symlink to tor-browser:]
