@@ -78,6 +78,7 @@ nvidia-driver-535
 #ltunify
 #logitechutils
 
+############ COPY from Backups ############
 .bashrc
 ssh keys
 ############ not-immediate install ################
