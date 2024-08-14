@@ -22,7 +22,7 @@ inkscape
 sudo dnf install ag tmux wget htop gnuplot gcc git neovim make cmake okular texmaker screen minicom snapper inkscape python3.spyder -y
 --------------------------
 extensions
-V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Muttitaskint/Multi-Monitor and tick WORKSPACES ON ALL DISPLAYS
+V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Multitasking/Multi-Monitor and tick "WORKSPACES ON ALL DISPLAYS"
 ||
 ||
  . ==>>> (https://extensions.gnome.org/extension/5177/vertical-workspaces/)
@@ -31,6 +31,7 @@ V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Muttitask
 --------------------------
 ##### SOFTWARE UTILITY #####
 raspberry pi imager
+zotero (needs 3rd parties)
 thonny
 dark table
 #emacs
