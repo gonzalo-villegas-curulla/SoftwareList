@@ -19,8 +19,9 @@ minicom
 snapper
 inkscape
 openocd
+gedit
 --------------------------
-sudo dnf install ag tmux wget htop gnuplot gcc git neovim make cmake okular texmaker screen minicom snapper inkscape openocd -y
+sudo dnf install ag tmux wget htop gnuplot gcc git neovim make cmake okular texmaker screen minicom snapper inkscape openocd gedit -y
 --------------------------
 extensions
 V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Multitasking/Multi-Monitor and tick "WORKSPACES ON ALL DISPLAYS"
