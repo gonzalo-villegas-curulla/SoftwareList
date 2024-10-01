@@ -12,26 +12,19 @@ V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Multitask
 conda / anconda
 --------------------------
 ##### SOFTWARE UTILITY #####
-raspberry pi imager
-zotero (needs 3rd parties)
-thonny
+audacity
 dark table
-visual studio coder
 pdfstudioviewer
-
+raspberry pi imager
+thonny
+TorBrowser
+visual studio code
+zotero (needs 3rd parties)
 --------------------------
-
-
-Audacity
-inkscape
 #Code Blocks
-
 #Gerris (gts and dependencies, gfsview)#Basilisk#bviewer
 #OpenFoam
 Zoom
-Tor Browser
-#WinRAR
-#[maxMSP]
 
 ################ GPU packages ###########
 conda update conda
