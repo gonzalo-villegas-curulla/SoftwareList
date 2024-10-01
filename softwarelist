@@ -11,7 +11,7 @@ V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Multitask
 --------------------------
 conda / anconda
 then:
-
+conda install cudatoolkit numba cupy
 --------------------------
 ##### SOFTWARE UTILITY #####
 audacity
