@@ -10,6 +10,8 @@ V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Multitask
  . ==>>> (https://extensions.gnome.org/extension/5177/vertical-workspaces/)
 --------------------------
 conda / anconda
+then:
+
 --------------------------
 ##### SOFTWARE UTILITY #####
 audacity
@@ -27,9 +29,9 @@ zotero (needs 3rd parties)
 Zoom
 
 ################ GPU packages ###########
+
 conda update conda
 conda install cudatoolkit pytorch
-
 
 nvtop
 nvidia-smi
@@ -37,25 +39,18 @@ nvidia-smi
 https://www.nvidia.com/Download/index.aspx?lang=en-us
 )
 
-############ sophisticated-nontrival ################
-
-nvtop
-nvidia-driver-535
+# *****
+nvidia-driver-535 ??? hadrware dependent
 >>> $ nvidia-smi [to confirm]
-# or other
 
-#solaar # synch logitech peripherals
-#or maybe:
-#ltunify
-#logitechutils
 
 ############ COPY from Backups ############
 .bashrc
 ssh keys
 ############ not-immediate install ################
 Matlab
-#FreeFEM
-#gmesh
+FreeFEM
+gmesh
 
 
 ############ COPY ################
