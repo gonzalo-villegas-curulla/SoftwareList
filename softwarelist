@@ -1,66 +1,32 @@
 --------------------------
-alacritty
+alacritty (then add keyboard shortcut)
 --------------------------
-ag
-tmux
-wget
-htop
-gnuplot
-gcc
-git
-neovim
-alacritty
-make
-cmake
-okular
-texmaker
-screen
-minicom
-snapper
-inkscape
-openocd
-gedit
+sudo dnf install ag cmake dump1090 gcc gedit gnuplot git htop inkscape make neovim okular minicom nmap openocd screen snapper texmaker tmux wget -y
 --------------------------
-sudo dnf install ag tmux wget htop gnuplot gcc git neovim make cmake okular texmaker screen minicom snapper inkscape openocd gedit -y
---------------------------
-extensions
+install Extensions, then:
 V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Multitasking/Multi-Monitor and tick "WORKSPACES ON ALL DISPLAYS"
 ||
 ||
  . ==>>> (https://extensions.gnome.org/extension/5177/vertical-workspaces/)
 --------------------------
-#awk
+conda / anconda
 --------------------------
 ##### SOFTWARE UTILITY #####
 raspberry pi imager
 zotero (needs 3rd parties)
 thonny
 dark table
-#emacs
-anaconda [conda]
 visual studio coder
 pdfstudioviewer
 
-########### CONDA packages ###########
-conda update conda
-conda install cudatoolkit pytorch
-
 --------------------------
-sudo dnf install python3.spyder -y
 
---------------------------
-#Adobe Acrobat
-#Notepad
-#[Dolphin]
 
-#Github Desktop
 Audacity
-#PyCharm / jetbrains
+inkscape
 #Code Blocks
-#darcs
-#Gerris (gts and dependencies, gfsview)
-#Basilisk
-#bviewer
+
+#Gerris (gts and dependencies, gfsview)#Basilisk#bviewer
 #OpenFoam
 Zoom
 Tor Browser
@@ -68,6 +34,10 @@ Tor Browser
 #[maxMSP]
 
 ################ GPU packages ###########
+conda update conda
+conda install cudatoolkit pytorch
+
+
 nvtop
 nvidia-smi
 (drivers here:
