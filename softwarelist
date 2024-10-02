@@ -2,6 +2,7 @@
 alacritty (then add keyboard shortcut)
 --------------------------
 sudo dnf install ag cmake dump1090 gcc gedit gnuplot git htop inkscape make neovim okular minicom nmap openocd screen snapper texmaker tmux wget -y
+sudo zypper install ag cmake dump1090 gcc gedit gnuplot git htop inkscape make neovim okular minicom nmap openocd screen snapper texmaker tmux wget -y
 --------------------------
 install Extensions, then:
 V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Multitasking/Multi-Monitor and tick "WORKSPACES ON ALL DISPLAYS"
