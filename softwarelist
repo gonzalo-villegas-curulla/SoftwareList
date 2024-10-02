@@ -26,11 +26,12 @@ TorBrowser
 visual studio code
 VLC
 zotero (needs 3rd parties)
---------------------------
-#Code Blocks
-#Gerris (gts and dependencies, gfsview)#Basilisk#bviewer
-#OpenFoam
-Zoom
+
+############ not-immediate install ################
+Matlab
+FreeFEM
+gmesh
+btrfs-assistant
 
 ################ GPU packages ###########
 
@@ -49,15 +50,15 @@ https://www.nvidia.com/Download/index.aspx?lang=en-us
 nvidia-driver-535 ??? hadrware dependent
 >>> $ nvidia-smi [to confirm]
 
+################ rare ###########
+#Code Blocks
+#Gerris (gts and dependencies, gfsview)#Basilisk#bviewer
+#OpenFoam
+Zoom
 
 ############ COPY from Backups ############
 .bashrc
 ssh keys
-############ not-immediate install ################
-Matlab
-FreeFEM
-gmesh
-
 
 ############ COPY ################
 .alacritty_launcher.sh
