@@ -2,7 +2,7 @@
 alacritty (then add keyboard shortcut)
 --------------------------
 sudo dnf install ag cmake dump1090 gcc gedit gnuplot git htop inkscape make neovim okular minicom nmap openocd screen snapper texmaker tmux wget -y
-sudo zypper install ag cmake dump1090 gcc gedit gnuplot git htop inkscape make neovim okular minicom nmap openocd screen snapper texmaker tmux wget -y
+sudo zypper install cmake dump1090-fa gcc gedit gnuplot git htop inkscape make neovim okular minicom nmap openocd screen snapper texmaker the_silver_searcher tmux wget
 --------------------------
 install Extensions, then:
 V-Shell (Vertical Workspaces)... Extra MOD???? (2) then go to Settings/Multitasking/Multi-Monitor and tick "WORKSPACES ON ALL DISPLAYS"
@@ -17,12 +17,14 @@ conda install cudatoolkit numba cupy
 ##### SOFTWARE UTILITY #####
 audacity
 dark table
+inkscape
 Oracle VM Box
 pdfstudioviewer
 raspberry pi imager
 thonny
 TorBrowser
 visual studio code
+VLC
 zotero (needs 3rd parties)
 --------------------------
 #Code Blocks
@@ -31,6 +33,8 @@ zotero (needs 3rd parties)
 Zoom
 
 ################ GPU packages ###########
+
+# zypper install nvtop
 
 conda update conda
 conda install cudatoolkit pytorch
