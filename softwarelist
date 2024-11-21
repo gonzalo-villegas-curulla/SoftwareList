@@ -1,7 +1,7 @@
 --------------------------
 alacritty (then add keyboard shortcut)
 --------------------------
-sudo dnf install ag cmake dump1090 gcc gedit gnuplot git htop inkscape make neovim okular minicom nmap openocd screen snapper texmaker tmux wget -y
+sudo dnf install ag cmake dump1090 gcc gedit gnuplot git gv htop inkscape make neovim okular minicom nmap openocd screen snapper texmaker tmux wget -y
 sudo zypper install cmake dump1090-fa gcc gedit gnuplot git htop inkscape make neovim okular minicom nmap openocd screen snapper texmaker the_silver_searcher tmux wget
 --------------------------
 install Extensions, then:
